@@ -1,0 +1,97 @@
+## Pre-requisite
+- install Ubuntu 22.04
+- LAMP stack setup
+
+## Objectives of Mentorship 2024
+Technical Skills
+- To make them familiar with the Software industry working environment
+- To build a basic foundation in UI test automation concepts.
+Soft Skills
+- Pair Programming, Team Work, Communications and Presentation skills.
+
+## Mentorship Plan
+
+-   This file contains the topics to be covered during the course of mentorship program.
+-   This mentorship would be co-ordinated mainly by mentors Prashant and Pradip.
+-   Other staff would also be engaged in multiple sessions through out the program.
+-   Time frame: tentative time of 4 weeks starting on December 2 (date might vary slightly)
+
+## General Information
+
+> This general information would be provided to all the trainees during the program course.
+
+-   Fortnightly plan
+-   Monday afternoon GuphSuph & prayer
+-   Standup meeting
+-   Tuesday open door time
+-   Weekly technical training
+-   Individual Friday Feedback (Sprint's 1st week) and Role-based Feedback (2nd week)
+-   Role: Scrum Master
+
+## Topics to be covered throughout Mentorship
+
+## First Week @Both
+
+Objective: Know the basic of Github and introduction to Test Automation.
+
+-   [ ] Mentorship Introduction (@Kathrin) 5min
+-   [ ] Company and Team Introduction (all) 45min
+-   [ ] Ice Breaker (Informal session - Games `UNO`, `foosball` etc.) (all) 15min
+-   [ ] Setup Rocket Chat app
+-   [ ] Presentation of our mentorship topics. (@prashant) 10 min
+-   [ ] Intellij (register with student account in jetbrain) or VS code (@pradip) 30 min
+-   [ ] Introuduction to Open Source Project (@prashant)
+-   [ ] Linux basic commands and file permissions (paper providing) 60 min @pradip
+-   [ ] Git and Github (basic introduction, advance => interactive rebase, bisect,restore(after making some PR), stash) (https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)  45 min @prashant
+-   [ ] Introduction to JavaScript @pradip
+-   [ ] Introduction to ES6 syntax, asynchronous JS @pradip
+-   [ ] Friday feedback - Dec-06 at 3:15pm
+
+## Second Week @prashant
+
+Objective: Familiar with BDD (Cucumber)
+
+-   [ ] Project Setup
+-   [ ] Introduction to QA, automated testing (BDD & TDD) and test pyramid (`NTR`) Presentation @isha 30 min
+-   [ ] Principles of testing - 20min
+-   [ ] Acceptance and E2E testing
+-   [ ] Cucumber and Gherkin (Feature, Scenarios, Steps, etc.)  (https://cucumber.io/docs/gherkin/reference)
+-   [ ] Writing your first feature file: (https://blog.jankaritech.com/#/blog/E2E%20Testing%20using%20BDD%20with%20Playwright/Behavior%20Driven%20Development%20(BDD)%20using%20Playwright)
+-   [ ] Cucumber Hooks
+-   [ ] writing more feature files using example table and data table
+-   [ ]	Implementation of Step Definition
+-   [ ] Internal training on Friday, 2024-12-13
+
+
+## Third Week @pradip
+
+Objective: Familiar with browser Automation Framework (PlayWright)
+
+-   [ ] Introduction to Playwright
+-   [ ] CSS selectors and Xpath
+-   [ ] Browser automation implementation with playwright
+-   [ ] Introduction to Page objects (https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800b)
+-   [ ] Practice writing feature file with step definition and page object
+-   [ ] Make PR
+
+## Fourth Week @Both
+
+Objective: Running tests on Cloud.
+
+-   [ ] Debugging and Error Tracing (@pradip)
+-   [ ] Introduction to CI/CD (@Sagar)
+-   [ ] Github Action and it's implementation (@prashant)
+
+## Fifth Week @Both
+
+Objective: Running tests on Cloud.
+
+-   [ ] Presentation and Feedback on 2025-01-03(Tentative date)
+
+Topics to consider if the days are available
+
+-   [ ] Docker (4th week)
+-   [ ] Basic API testing and  postman
+
+
+

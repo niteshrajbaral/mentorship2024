@@ -1,0 +1,21 @@
+Links
+linux commands: https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/
+		http://cc.iiti.ac.in/docs/linuxcommands.pdf
+gihub links:
+cheatsheet:
+https://cheatography.com/explore/search/?q=git
+
+conventional commits:
+https://www.conventionalcommits.org/en/v1.0.0/
+https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+
+branching:
+https://www.nobledesktop.com/learn/git/git-branches
+
+restore vs reset:
+https://academind.com/tutorials/git-restore-and-git-reset
+
+merging vs rebasing
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+Some changes
