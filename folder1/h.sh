@@ -1,2 +1,0 @@
-nsn
-hello
