@@ -1,7 +1,7 @@
 // Before ES6
-var name = "Pokhara";
+var name2 = "Pokhara";
 function greet() {
-    console.log("Hello " + name);
+    console.log("Hello " + name2);
 }
 // ES6
 const name1 = "Pokhara";

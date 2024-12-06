@@ -1,11 +1,15 @@
 let x = 5;
+var y=6;
+const z=7;
+
 console.log(x);//5
-x = 10;
+console.log(y);//6
+console.log(z);//7
 
-console.log(x); // 10
-const y = 20;
+x=8;
+y=9;
+//z=10; //TypeError: Assignment to constant variable.
 
-// y = 30; // Error
-const obj = { name: 'Alice' };
-obj.name = 'Bob'; // Allowed
-console.log(obj.name); // Bob+
+console.log(x);//8
+console.log(y);//9
+console.log(z);//7
